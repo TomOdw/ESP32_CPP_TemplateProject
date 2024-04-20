@@ -1,7 +1,7 @@
 # ESP32_CPP_TemplateProject
 **Simple ESP32 C++ template project**.
 
-#Info
+# Info
 - IDE: VS Code with ESP-IDF Extension
 - ESP-IDF version: 5.2.1
 
