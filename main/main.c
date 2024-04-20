@@ -1,9 +1,10 @@
 /*!
- * @file 	main.c
- * @brief 	Program entry
- * @author 	Tom Christ
- * @date 	2024-03-18
- * @version	0.1		Initial Version
+ * @file 	    main.c
+ * @brief 	    Program entry
+ * @author 	    Tom Christ
+ * @date 	    2024-03-18
+ * @copyright   Copyright (c) 2024 Tom Christ; MIT License   
+ * @version	    0.1		Initial Version
  */
 
 #include "Application.h"
